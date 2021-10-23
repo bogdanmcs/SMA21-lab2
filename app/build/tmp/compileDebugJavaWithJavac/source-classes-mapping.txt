@@ -1,0 +1,8 @@
+com/example/sma21_lab2/BuildConfig.java
+ com.example.sma21_lab2.BuildConfig
+com/example/sma21_lab2/MainActivity.java
+ com.example.sma21_lab2.MainActivity
+ com.example.sma21_lab2.MainActivity$1
+ com.example.sma21_lab2.MainActivity$1$1
+ com.example.sma21_lab2.MainActivity$1$2
+ com.example.sma21_lab2.MainActivity$2
