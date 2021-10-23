@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SMA21-lab2</string>
+    <string name="say_hello">Say hello</string>
+    <string name="randomized">RANDOMIZED</string>
+    <string name="johndoe">John Doe</string>
+    <string-array name="spinner_choices">
+        <item>Red</item>
+        <item>Green</item>
+        <item>Blue</item>
+    </string-array>
+    <string name="bShareTitle">Share</string>
+</resources>
